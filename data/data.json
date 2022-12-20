@@ -4,19 +4,19 @@
             "id": 1,
             "firstName": "Yusuke",
             "surname": "Yarimeshi",
-            "image": "jeffricardo@gmail.com"
+            "image": "../anime/Yusuke.jpg.crdownload"
         },
         {
             "id": 2,
             "firstName": "Naruto",
             "surname": "Uzumaki",
-            "image": "jacktitanio@gmail.com"
+            "image": "../anime/Naruto.jpg"
         },
         {
             "id": 3,
             "firstName": "Goku",
             "surname": "Black",
-            "image": "muckieplaas@gmail.com"
+            "image": "../anime/Goku.jfif"
         }
     ]
 }
